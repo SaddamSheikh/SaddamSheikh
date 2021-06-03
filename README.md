@@ -1,5 +1,5 @@
 
-<img src="images/profile.jpg"/>
+<img src="images/profile.png"/>
  <hr></hr>
 <p align="center">
   <samp>
