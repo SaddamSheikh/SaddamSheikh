@@ -5,7 +5,7 @@
   <samp>
 Hi, I'm Saddam! 👋<br>
 🔥 23 Year's Old Software Developer grinding hard to make something cool<br>
-✨ Favorite Tech: JavaScript, Angular,..<br>
+✨ Favorite Tech: Java,..<br>
 📓 I’m currently learning Flutter and Android... 😭<br>
 ✉️ saddamsheikh207@gmail.com<br>
 🎨 Portfolio: https://saddamsheikh.github.io<br>
