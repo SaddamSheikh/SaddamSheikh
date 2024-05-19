@@ -11,6 +11,6 @@ Hi, I'm Saddam! 👋<br>
 🎨 Portfolio: https://saddamsheikh.github.io<br>
 💼 LinkedIn: https://linkedin.com/in/saddamsheikh
 </samp><br>
- <a href="https://app.daily.dev/MrR007"><img src="https://api.daily.dev/devcards/562853027b85448fb76c2e208a7b4368.png?r=akg" width="400" alt="SADDAM SHEIKH's Dev Card"/></a>
-</p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saddamsheikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saddamsheikh?trk=profile-badge">Saddam Sheikh</a></div>
+              </p>
 
